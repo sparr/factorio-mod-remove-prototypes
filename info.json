@@ -1,11 +1,11 @@
 {
   "name": "remove-prototypes",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "title": "Remove Prototypes",
   "author": "Sparr",
   "homepage": "http://github.com/sparr/factorio-mod-remove-prototypes",
   "contact": "sparr0@gmail.com",
   "description": "Remove specific prototypes (entity, item, tech, etc) from the game entirely.",
-  "dependencies": ["base >= 0.16.0"],
-  "factorio_version": "0.16"
+  "dependencies": ["base >= 0.17.0"],
+  "factorio_version": "0.17"
 }
